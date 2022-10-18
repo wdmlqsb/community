@@ -1,0 +1,70 @@
+2022-10-15 00:15:27,029 INFO [QuartzScheduler_communityScheduler-bucksfizz-2.local1665633117847_MisfireHandler] o.s.s.q.LocalDataSourceJobStore [JobStoreSupport.java:973] Handling 1 trigger(s) that missed their scheduled fire-time.
+2022-10-15 02:12:59,996 INFO [QuartzScheduler_communityScheduler-bucksfizz-2.local1665633117847_MisfireHandler] o.s.s.q.LocalDataSourceJobStore [JobStoreSupport.java:973] Handling 1 trigger(s) that missed their scheduled fire-time.
+2022-10-15 04:24:12,422 INFO [QuartzScheduler_communityScheduler-bucksfizz-2.local1665633117847_MisfireHandler] o.s.s.q.LocalDataSourceJobStore [JobStoreSupport.java:973] Handling 1 trigger(s) that missed their scheduled fire-time.
+2022-10-15 06:32:08,629 INFO [QuartzScheduler_communityScheduler-bucksfizz-2.local1665633117847_MisfireHandler] o.s.s.q.LocalDataSourceJobStore [JobStoreSupport.java:973] Handling 1 trigger(s) that missed their scheduled fire-time.
+2022-10-15 08:32:26,595 INFO [QuartzScheduler_communityScheduler-bucksfizz-2.local1665633117847_MisfireHandler] o.s.s.q.LocalDataSourceJobStore [JobStoreSupport.java:973] Handling 1 trigger(s) that missed their scheduled fire-time.
+2022-10-15 08:38:39,542 INFO [QuartzScheduler_communityScheduler-bucksfizz-2.local1665633117847_MisfireHandler] o.s.s.q.LocalDataSourceJobStore [JobStoreSupport.java:973] Handling 1 trigger(s) that missed their scheduled fire-time.
+2022-10-15 08:41:48,966 INFO [communityScheduler_Worker-1] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 08:46:48,967 INFO [communityScheduler_Worker-2] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 08:51:48,970 INFO [communityScheduler_Worker-3] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 08:56:48,961 INFO [communityScheduler_Worker-4] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 09:01:48,967 INFO [communityScheduler_Worker-5] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 09:06:48,962 INFO [communityScheduler_Worker-1] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 09:11:48,969 INFO [communityScheduler_Worker-2] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 09:16:48,975 INFO [communityScheduler_Worker-3] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 09:21:48,969 INFO [communityScheduler_Worker-4] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 09:26:48,963 INFO [communityScheduler_Worker-5] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 09:31:48,969 INFO [communityScheduler_Worker-1] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 09:36:48,964 INFO [communityScheduler_Worker-2] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 09:41:48,972 INFO [communityScheduler_Worker-3] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 09:46:48,961 INFO [communityScheduler_Worker-4] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 09:51:48,978 INFO [communityScheduler_Worker-5] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 09:56:48,972 INFO [communityScheduler_Worker-1] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 10:01:48,972 INFO [communityScheduler_Worker-2] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 10:06:48,966 INFO [communityScheduler_Worker-3] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 10:11:48,959 INFO [communityScheduler_Worker-4] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 10:16:48,962 INFO [communityScheduler_Worker-5] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 10:21:48,977 INFO [communityScheduler_Worker-1] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 10:26:48,958 INFO [communityScheduler_Worker-2] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 10:31:48,965 INFO [communityScheduler_Worker-3] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 10:36:48,960 INFO [communityScheduler_Worker-4] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 10:41:48,961 INFO [communityScheduler_Worker-5] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 10:46:48,961 INFO [communityScheduler_Worker-1] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 10:51:48,966 INFO [communityScheduler_Worker-2] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 12:51:31,212 INFO [QuartzScheduler_communityScheduler-bucksfizz-2.local1665633117847_MisfireHandler] o.s.s.q.LocalDataSourceJobStore [JobStoreSupport.java:973] Handling 1 trigger(s) that missed their scheduled fire-time.
+2022-10-15 13:41:28,529 INFO [communityScheduler_Worker-3] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 15:23:26,186 INFO [QuartzScheduler_communityScheduler-bucksfizz-2.local1665633117847_MisfireHandler] o.s.s.q.LocalDataSourceJobStore [JobStoreSupport.java:973] Handling 1 trigger(s) that missed their scheduled fire-time.
+2022-10-15 17:33:08,918 INFO [QuartzScheduler_communityScheduler-bucksfizz-2.local1665633117847_MisfireHandler] o.s.s.q.LocalDataSourceJobStore [JobStoreSupport.java:973] Handling 1 trigger(s) that missed their scheduled fire-time.
+2022-10-15 17:45:07,926 INFO [QuartzScheduler_communityScheduler-bucksfizz-2.local1665633117847_MisfireHandler] o.s.s.q.LocalDataSourceJobStore [JobStoreSupport.java:973] Handling 1 trigger(s) that missed their scheduled fire-time.
+2022-10-15 17:46:48,973 INFO [communityScheduler_Worker-4] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 17:51:48,971 INFO [communityScheduler_Worker-5] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 18:40:46,276 INFO [QuartzScheduler_communityScheduler-bucksfizz-2.local1665633117847_MisfireHandler] o.s.s.q.LocalDataSourceJobStore [JobStoreSupport.java:973] Handling 1 trigger(s) that missed their scheduled fire-time.
+2022-10-15 20:55:37,582 INFO [QuartzScheduler_communityScheduler-bucksfizz-2.local1665633117847_MisfireHandler] o.s.s.q.LocalDataSourceJobStore [JobStoreSupport.java:973] Handling 1 trigger(s) that missed their scheduled fire-time.
+2022-10-15 22:06:39,470 INFO [QuartzScheduler_communityScheduler-bucksfizz-2.local1665633117847_MisfireHandler] o.s.s.q.LocalDataSourceJobStore [JobStoreSupport.java:973] Handling 1 trigger(s) that missed their scheduled fire-time.
+2022-10-15 22:06:48,967 INFO [communityScheduler_Worker-1] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 22:11:48,970 INFO [communityScheduler_Worker-2] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 22:16:48,971 INFO [communityScheduler_Worker-3] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 22:21:48,972 INFO [communityScheduler_Worker-4] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 22:26:48,968 INFO [communityScheduler_Worker-5] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 22:31:48,975 INFO [communityScheduler_Worker-1] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 22:36:48,964 INFO [communityScheduler_Worker-2] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 22:41:48,964 INFO [communityScheduler_Worker-3] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 22:46:48,964 INFO [communityScheduler_Worker-4] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 22:51:48,963 INFO [communityScheduler_Worker-5] c.n.c.q.PostScoreRefreshJob [PostScoreRefreshJob.java:55] [任务取消] 没有需要刷新的帖子!
+2022-10-15 22:52:42,386 INFO [Thread-18] o.q.c.QuartzScheduler [QuartzScheduler.java:585] Scheduler communityScheduler_$_bucksfizz-2.local1665633117847 paused.
+2022-10-15 22:52:42,392 INFO [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] o.s.s.c.ThreadPoolTaskScheduler [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService
+2022-10-15 22:52:42,392 INFO [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] o.s.s.c.ThreadPoolTaskScheduler [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService
+2022-10-15 22:52:42,392 INFO [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] o.s.s.c.ThreadPoolTaskScheduler [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService
+2022-10-15 22:52:42,397 INFO [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.s.s.c.ThreadPoolTaskScheduler [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService
+2022-10-15 22:52:42,399 INFO [org.springframework.kafka.KafkaListenerEndpointContainer#3-0-C-1] o.s.k.l.KafkaMessageListenerContainer$ListenerConsumer [KafkaMessageListenerContainer.java:840] Consumer stopped
+2022-10-15 22:52:42,400 INFO [org.springframework.kafka.KafkaListenerEndpointContainer#2-0-C-1] o.s.k.l.KafkaMessageListenerContainer$ListenerConsumer [KafkaMessageListenerContainer.java:840] Consumer stopped
+2022-10-15 22:52:42,401 INFO [org.springframework.kafka.KafkaListenerEndpointContainer#1-0-C-1] o.s.k.l.KafkaMessageListenerContainer$ListenerConsumer [KafkaMessageListenerContainer.java:840] Consumer stopped
+2022-10-15 22:52:42,401 INFO [org.springframework.kafka.KafkaListenerEndpointContainer#0-0-C-1] o.s.k.l.KafkaMessageListenerContainer$ListenerConsumer [KafkaMessageListenerContainer.java:840] Consumer stopped
+2022-10-15 22:52:42,403 INFO [Thread-18] o.s.s.q.SchedulerFactoryBean [SchedulerFactoryBean.java:844] Shutting down Quartz Scheduler
+2022-10-15 22:52:42,403 INFO [Thread-18] o.q.c.QuartzScheduler [QuartzScheduler.java:666] Scheduler communityScheduler_$_bucksfizz-2.local1665633117847 shutting down.
+2022-10-15 22:52:42,403 INFO [Thread-18] o.q.c.QuartzScheduler [QuartzScheduler.java:585] Scheduler communityScheduler_$_bucksfizz-2.local1665633117847 paused.
+2022-10-15 22:52:42,404 INFO [Thread-18] o.q.c.QuartzScheduler [QuartzScheduler.java:740] Scheduler communityScheduler_$_bucksfizz-2.local1665633117847 shutdown complete.
+2022-10-15 22:52:42,405 INFO [Thread-18] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-10-15 22:52:42,405 INFO [Thread-18] o.s.s.c.ThreadPoolTaskScheduler [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'taskScheduler'
+2022-10-15 22:52:44,528 INFO [Thread-18] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2022-10-15 22:52:44,530 INFO [Thread-18] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.

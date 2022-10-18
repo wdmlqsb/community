@@ -29,7 +29,7 @@ public class SearchController implements CommunityConstant {
     @Autowired
     private LikeService likeService;
 
-    // search?keyword=xxx
+    // search?keyword=xxx（因为是get）
     @RequestMapping(path = "/search", method = RequestMethod.GET)
     public String search(String keyword, Page page, Model model) {
         // 搜索帖子
@@ -39,24 +39,29 @@ public class SearchController implements CommunityConstant {
         List<Map<String, Object>> discussPosts = new ArrayList<>();
         if (searchResult != null) {
             for (DiscussPost post : searchResult) {
+                // 封装聚合的数据
                 Map<String, Object> map = new HashMap<>();
-                // 帖子
+                // 放帖子
                 map.put("post", post);
-                // 作者
+                // 放作者
                 map.put("user", userService.findUserById(post.getUserId()));
-                // 点赞数量
+                // 放点赞数量
                 map.put("likeCount", likeService.findEntityLikeCount(ENTITY_TYPE_POST, post.getId()));
 
+                // map放到集合里
                 discussPosts.add(map);
             }
         }
+        // 聚合的数据传给模版
         model.addAttribute("discussPosts", discussPosts);
         model.addAttribute("keyword", keyword);
 
         // 分页信息
         page.setPath("/search?keyword=" + keyword);
+        // 强制转换
         page.setRows(searchResult == null ? 0 : (int) searchResult.getTotalElements());
 
+        // 返回模版
         return "/site/search";
     }
 

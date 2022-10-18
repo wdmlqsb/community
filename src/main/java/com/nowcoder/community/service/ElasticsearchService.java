@@ -35,14 +35,17 @@ public class ElasticsearchService {
     @Autowired
     private ElasticsearchTemplate elasticTemplate;
 
+    // 向ES服务器传入新增加的帖子（更改也是增加新的）
     public void saveDiscussPost(DiscussPost post) {
         discussRepository.save(post);
     }
 
+    // 删除
     public void deleteDiscussPost(int id) {
         discussRepository.deleteById(id);
     }
 
+    // Page是spring提供的类型，搜索函数：传入关键字，当前显示第几页，每页显示多少数据（从test类copy）
     public Page<DiscussPost> searchDiscussPost(String keyword, int current, int limit) {
         SearchQuery searchQuery = new NativeSearchQueryBuilder()
                 .withQuery(QueryBuilders.multiMatchQuery(keyword, "title", "content"))
@@ -58,15 +61,20 @@ public class ElasticsearchService {
         return elasticTemplate.queryForPage(searchQuery, DiscussPost.class, new SearchResultMapper() {
             @Override
             public <T> AggregatedPage<T> mapResults(SearchResponse response, Class<T> aClass, Pageable pageable) {
+                // 获取命中的数据
                 SearchHits hits = response.getHits();
+                // 判断有没有
                 if (hits.getTotalHits() <= 0) {
                     return null;
                 }
 
+                // 实例化一个集合
                 List<DiscussPost> list = new ArrayList<>();
                 for (SearchHit hit : hits) {
+                    // 集合之内实例化了一个实体
                     DiscussPost post = new DiscussPost();
 
+                    // 根据hit的数据构造这个实体，返回
                     String id = hit.getSourceAsMap().get("id").toString();
                     post.setId(Integer.valueOf(id));
 

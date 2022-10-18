@@ -8,6 +8,7 @@ import javax.annotation.PostConstruct;
 @SpringBootApplication
 public class CommunityApplication {
 
+    //管理bean初始化方法
     @PostConstruct
     public void init() {
         // 解决netty启动冲突问题
